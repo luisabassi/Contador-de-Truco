@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">calculadoraSimples</string>
+    <string name="finalizar_partida">Finalizar partida</string>
+    <string name="historico">Histórico</string>
+    <string name="voltar">Voltar</string>
+    <string name="nenhuma_partida">Nenhuma partida salva ainda.</string>
+    <string name="vencedor_formato">Vencedor: %1$s</string>
+</resources>
